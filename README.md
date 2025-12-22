@@ -35,7 +35,7 @@ expense-tracker summary
 
 ### Listing All Expenses
 ```
-expense-tracker lsit
+expense-tracker list
 ```
 
 
@@ -50,7 +50,7 @@ https://github.com/mathiasyeremiaaryadi/project-expense-tracker-cli-app-golang.g
 Go to the project directory
 
 ```bash
-  cd my-project
+cd my-project
 ```
 
 Install dependencies
